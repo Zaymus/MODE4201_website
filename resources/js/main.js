@@ -5,11 +5,13 @@ const header = document.querySelector("header");
 const about = document.getElementsByClassName("about_info")[0];
 const classwork = document.querySelector(".classwork");
 const labs = document.querySelector(".labs");
+const project = document.querySelector(".final-project");
 const title = document.querySelector(".title");
 const nav = document.getElementsByClassName("nav_link-list")[0];
 
 const location_classwork = document.querySelector("#classwork").offsetTop;
 const location_labs = document.querySelector("#labs").offsetTop;
+const location_project = document.querySelector("#project").offsetTop;
 
 const projects_git = document.querySelectorAll("#project-git");
 const projects_web = document.querySelectorAll("#project-link");
@@ -34,6 +36,10 @@ classwork.addEventListener("click", () => {
 
 labs.addEventListener("click", () => {
 	scroll({ top: location_labs, behaviour: "smooth" });
+});
+
+project.addEventListener("click", () => {
+	scroll({ top: location_project, behaviour: "smooth" });
 });
 
 for (let i = 0; i < git_links.length; i++) {
