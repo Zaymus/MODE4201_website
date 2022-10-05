@@ -1,0 +1,18 @@
+{
+  "labs": [
+    {
+      "name": "Lab 1 - Mobile Development Report",
+      "img_url": "resources/assets/images/Lab1.png",
+      "alt_text": "Image of the first lab document report",
+      "description": "For the first lab in MODE4201, we were tasked with researching a mobile development topic which were given to us based on the first character of our last names. Since mine is 'B', I was given the topic of 'Mobile Phone History'. in addition to writting a breif report on our given topic, we were also tasked with researching a mobile manufacturer that produces our own mobile phones with a set list of features/specifications. The same went for our own service providers where we would research our phone plan with another set list of features/specifications.",
+      "links": ["resources/assets/lab_docs/Brown, Carson - lab 1 report.pdf"]
+    },
+    {
+      "name": "Lab 2 - Web Hosting, Emulator, and Development Application tool",
+      "img_url": "resources/assets/images/Lab2.png",
+      "alt_text": "Image of the emulator used in lab 2",
+      "description": "In this Lab, we were tasked with creating and host a simple website which you are using right now! in addition to this website, we needed to find and install a mobile emulator that we can use to test our apps on in the future after we develop the .apk file, along with research an application development tool using a set list of features/specifications.",
+      "links": ["resources/assets/videos/lab 2 emulator demo.mp4", "resources/assets/lab_docs/Brown, Carson - lab 2 dev app tool.pdf"]
+    }
+  ]
+}

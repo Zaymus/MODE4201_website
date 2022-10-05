@@ -1,0 +1,23 @@
+{
+  "personal": {
+    "name": "Carson Brown",
+    "program": "Computer Programming and Analysis",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Full-stack Development",
+      "HTML 5",
+      "CSS 3",
+      "Databases"
+    ],
+    "hobbies": [
+      "Sim-racing",
+      "Snowboarding"
+    ]
+  },
+  "course": {
+    "code": "MODE-4201",
+    "name": "Mobile Development 1",
+    "prof": "Mohammad Shamas"
+  }
+}
