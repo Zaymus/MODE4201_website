@@ -53,6 +53,12 @@
 	text-align: left;
 }
 
+.about_info--list_container {
+	display: flex;
+	width: 100%;
+	justify-content: space-evenly;
+}
+
 .about_info--list {
 	list-style: disc;
 	list-style-position: inside;
