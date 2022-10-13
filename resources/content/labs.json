@@ -13,6 +13,13 @@
       "alt_text": "Image of the emulator used in lab 2",
       "description": "In this Lab, we were tasked with creating and host a simple website which you are using right now! in addition to this website, we needed to find and install a mobile emulator that we can use to test our apps on in the future after we develop the .apk file, along with research an application development tool using a set list of features/specifications.",
       "links": ["resources/assets/videos/lab_2_emulator_demo.mp4", "resources/assets/lab_docs/lab_2_doc.pdf"]
+    },
+    {
+      "name": "Lab 3 - XML and DTD",
+      "img_url": "resources/assets/images/Lab3.png",
+      "alt_text": "Image of the XML I had written to test the DTD I wrote",
+      "description": "In this Lab, we were tasked with analyzing a document to draft a XML tree diagram from which will then be used to define a DTD file and an xml file to test against the created DTD. The purpose of this is to further understand the DTD and XML relationship and how we can use DTD's to validate XML documents.",
+      "links": ["resources/assets/lab_docs/lab_3_report.pdf"]
     }
   ]
 }
