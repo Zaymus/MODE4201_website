@@ -1,0 +1,11 @@
+{
+  "classworks": [
+    {
+      "name": "Classwork 1 - Android Studio App Development & Testing",
+      "img_url": "resources/assets/images/CW1.png",
+      "alt_text": "Image of the first classwork app and code",
+      "description": "For the first classwork in MODE4201, we were tasked with creating a simple app using android studio that utilizes 10 different controls. Along with creating this app, we needed to test the app using android studio's built in emulator while we were developing the app and then once we were finished, we exported the app as an apk file and further tested it using a third part emulator. For me I used Bluestacks as my third party emulator like I did in lab 2 since it is a very popular emulator for mobile apps.",
+      "links": ["https://youtu.be/3iXc4nOxlTE"]
+    }
+  ]
+}

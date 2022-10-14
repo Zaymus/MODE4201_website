@@ -53,3 +53,25 @@ readTextFile("resources/content/labs.json", function (jsonData) {
 		}
 	}
 });
+
+readTextFile("resources/content/classworks.json", function (jsonData) {
+	var classworks = JSON.parse(jsonData).classworks;
+	const projects = document.querySelector("#classwork-list").children;
+	for (let i = 0; i < classworks.length; i++) {
+		const project_img = projects[i].childNodes[1].childNodes[1];
+		const project_data = projects[i].childNodes[3];
+		const project_links = project_data.childNodes[5];
+
+		project_img.setAttribute("src", classworks[i].img_url);
+		project_img.setAttribute("alt", classworks[i].alt_text);
+		project_data.childNodes[1].innerHTML = classworks[i].name;
+		project_data.childNodes[3].innerHTML = classworks[i].description;
+
+		for (let k = 0; k < classworks[i].links.length; k++) {
+			var node = k == 0 ? 1 : k + 2;
+			project_links.childNodes[node].addEventListener("click", () => {
+				window.open(classworks[i].links[k], "_blank");
+			});
+		}
+	}
+});
