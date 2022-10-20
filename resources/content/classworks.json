@@ -6,6 +6,13 @@
       "alt_text": "Image of the first classwork app and code",
       "description": "For the first classwork in MODE4201, we were tasked with creating a simple app using android studio that utilizes 10 different controls. Along with creating this app, we needed to test the app using android studio's built in emulator while we were developing the app and then once we were finished, we exported the app as an apk file and further tested it using a third part emulator. For me I used Bluestacks as my third party emulator like I did in lab 2 since it is a very popular emulator for mobile apps.",
       "links": ["https://youtu.be/3iXc4nOxlTE"]
+    },
+    {
+      "name": "Classwork 2 - MIT App Inventor",
+      "img_url": "resources/assets/images/CW2.png",
+      "alt_text": "Image of the second classwork code",
+      "description": "For the second classwork in MODE4201, we were tasked with creating a simple app using MIT App Inventor that utilizes 3 user interface, 1 media and 1 sensor component(s). Along with creating this app, we needed to test the app using our third-party emulator once we built the apk file.",
+      "links": ["https://youtu.be/GnEZbO64vFw"]
     }
   ]
 }
