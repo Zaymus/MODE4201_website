@@ -20,6 +20,13 @@
       "alt_text": "Image of the XML I had written to test the DTD I wrote",
       "description": "In this Lab, we were tasked with analyzing a document to draft a XML tree diagram from which will then be used to define a DTD file and an xml file to test against the created DTD. The purpose of this is to further understand the DTD and XML relationship and how we can use DTD's to validate XML documents.",
       "links": ["resources/assets/lab_docs/lab_3_report.pdf"]
+    },
+    {
+      "name": "Lab 4 - MIT App Inventor",
+      "img_url": "resources/assets/images/Lab4.png",
+      "alt_text": "Image of the game code used for the app",
+      "description": "In this Lab, we were tasked with creating an app using MIT App inventor. In the app we were required to fullfil a list of component requirements sepecified on the lab instructions document. This app needed to have a purpose and be functional. for example, there could not be any components that didn't make sense to use within the app topic/idea",
+      "links": ["https://youtu.be/apJQNgDMRzA"]
     }
   ]
 }
